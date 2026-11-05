@@ -1,0 +1,1 @@
+Add your own portrait photo here and name it profile.jpg. Recommended: vertical JPG/WEBP, 800x1000px or larger, clear face, good lighting. The website already references /profile.jpg. Do not upload a photo of someone else.
